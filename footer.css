@@ -9,24 +9,5 @@
     font-size: 16px;
     font-weight: bold;
     text-align: center;
-    padding-top: 10px;
-  }
-  
-  .socials {
-    display: flex;
-    justify-content: center;
-  }
-  
-  .socials a {
-    color: black;
-  }
-  
-  .socials i {
-    font-size: 20px;
-    margin: 10px;
-  }
-  
-  .credits {
-    text-align: center;
-    font-family: cursive;
+    padding-top: 40px;
   }
